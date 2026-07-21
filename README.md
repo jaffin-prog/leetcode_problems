@@ -19,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jaffin-prog/leetcode_problems/tree/master/0104-maximum-depth-of-binary-tree) |
+## Array
+|  |
+| ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/jaffin-prog/leetcode_problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
+## Math
+|  |
+| ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/jaffin-prog/leetcode_problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 <!---LeetCode Topics End-->
