@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/jaffin-prog/leetcode_problems/tree/master/1480-running-sum-of-1d-array) |
 | [2574-left-and-right-sum-differences](https://github.com/jaffin-prog/leetcode_problems/tree/master/2574-left-and-right-sum-differences) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/jaffin-prog/leetcode_problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/jaffin-prog/leetcode_problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Math
 |  |
 | ------- |
@@ -39,11 +40,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/jaffin-prog/leetcode_problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/jaffin-prog/leetcode_problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/jaffin-prog/leetcode_problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/jaffin-prog/leetcode_problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/jaffin-prog/leetcode_problems/tree/master/1480-running-sum-of-1d-array) |
 | [2574-left-and-right-sum-differences](https://github.com/jaffin-prog/leetcode_problems/tree/master/2574-left-and-right-sum-differences) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/jaffin-prog/leetcode_problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Binary Search
 |  |
 | ------- |
