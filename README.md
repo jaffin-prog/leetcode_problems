@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jaffin-prog/leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/jaffin-prog/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/jaffin-prog/leetcode_problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/jaffin-prog/leetcode_problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/jaffin-prog/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/jaffin-prog/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/jaffin-prog/leetcode_problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jaffin-prog/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [1189-maximum-number-of-balloons](https://github.com/jaffin-prog/leetcode_problems/tree/master/1189-maximum-number-of-balloons) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/jaffin-prog/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/jaffin-prog/leetcode_problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jaffin-prog/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/jaffin-prog/leetcode_problems/tree/master/0414-third-maximum-number) |
