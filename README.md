@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/jaffin-prog/leetcode_problems/tree/master/0905-sort-array-by-parity) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/jaffin-prog/leetcode_problems/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0976-largest-perimeter-triangle](https://github.com/jaffin-prog/leetcode_problems/tree/master/0976-largest-perimeter-triangle) |
+| [1122-relative-sort-array](https://github.com/jaffin-prog/leetcode_problems/tree/master/1122-relative-sort-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/jaffin-prog/leetcode_problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/jaffin-prog/leetcode_problems/tree/master/1480-running-sum-of-1d-array) |
 | [2574-left-and-right-sum-differences](https://github.com/jaffin-prog/leetcode_problems/tree/master/2574-left-and-right-sum-differences) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/jaffin-prog/leetcode_problems/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/jaffin-prog/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0575-distribute-candies](https://github.com/jaffin-prog/leetcode_problems/tree/master/0575-distribute-candies) |
+| [1122-relative-sort-array](https://github.com/jaffin-prog/leetcode_problems/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/jaffin-prog/leetcode_problems/tree/master/1189-maximum-number-of-balloons) |
 ## Bit Manipulation
 |  |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/jaffin-prog/leetcode_problems/tree/master/0905-sort-array-by-parity) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/jaffin-prog/leetcode_problems/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0976-largest-perimeter-triangle](https://github.com/jaffin-prog/leetcode_problems/tree/master/0976-largest-perimeter-triangle) |
+| [1122-relative-sort-array](https://github.com/jaffin-prog/leetcode_problems/tree/master/1122-relative-sort-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/jaffin-prog/leetcode_problems/tree/master/0976-largest-perimeter-triangle) |
+| [1122-relative-sort-array](https://github.com/jaffin-prog/leetcode_problems/tree/master/1122-relative-sort-array) |
 ## Polygons
 |  |
 | ------- |
@@ -207,4 +211,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/jaffin-prog/leetcode_problems/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/jaffin-prog/leetcode_problems/tree/master/0867-transpose-matrix) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/jaffin-prog/leetcode_problems/tree/master/1122-relative-sort-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/jaffin-prog/leetcode_problems/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
