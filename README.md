@@ -7,20 +7,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jaffin-prog/leetcode_problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/jaffin-prog/leetcode_problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/jaffin-prog/leetcode_problems/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jaffin-prog/leetcode_problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/jaffin-prog/leetcode_problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/jaffin-prog/leetcode_problems/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jaffin-prog/leetcode_problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/jaffin-prog/leetcode_problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jaffin-prog/leetcode_problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/jaffin-prog/leetcode_problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/jaffin-prog/leetcode_problems/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 ## Array
 |  |
@@ -188,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/jaffin-prog/leetcode_problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/jaffin-prog/leetcode_problems/tree/master/0141-linked-list-cycle) |
 ## Floyd's Cycle Finding Algorithm
 |  |
