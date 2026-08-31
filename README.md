@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jaffin-prog/leetcode_problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/jaffin-prog/leetcode_problems/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jaffin-prog/leetcode_problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/jaffin-prog/leetcode_problems/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -19,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jaffin-prog/leetcode_problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/jaffin-prog/leetcode_problems/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 ## Array
 |  |
 | ------- |
