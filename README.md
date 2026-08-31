@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/jaffin-prog/leetcode_problems/tree/master/0414-third-maximum-number) |
 | [0575-distribute-candies](https://github.com/jaffin-prog/leetcode_problems/tree/master/0575-distribute-candies) |
 | [0704-binary-search](https://github.com/jaffin-prog/leetcode_problems/tree/master/0704-binary-search) |
+| [0905-sort-array-by-parity](https://github.com/jaffin-prog/leetcode_problems/tree/master/0905-sort-array-by-parity) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/jaffin-prog/leetcode_problems/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0976-largest-perimeter-triangle](https://github.com/jaffin-prog/leetcode_problems/tree/master/0976-largest-perimeter-triangle) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/jaffin-prog/leetcode_problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/jaffin-prog/leetcode_problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jaffin-prog/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/jaffin-prog/leetcode_problems/tree/master/0414-third-maximum-number) |
+| [0905-sort-array-by-parity](https://github.com/jaffin-prog/leetcode_problems/tree/master/0905-sort-array-by-parity) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/jaffin-prog/leetcode_problems/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0976-largest-perimeter-triangle](https://github.com/jaffin-prog/leetcode_problems/tree/master/0976-largest-perimeter-triangle) |
 ## Two Pointers
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/jaffin-prog/leetcode_problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/jaffin-prog/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/jaffin-prog/leetcode_problems/tree/master/0392-is-subsequence) |
+| [0905-sort-array-by-parity](https://github.com/jaffin-prog/leetcode_problems/tree/master/0905-sort-array-by-parity) |
 ## String
 |  |
 | ------- |
