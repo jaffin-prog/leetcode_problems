@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/jaffin-prog/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/jaffin-prog/leetcode_problems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/jaffin-prog/leetcode_problems/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/jaffin-prog/leetcode_problems/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/jaffin-prog/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0575-distribute-candies](https://github.com/jaffin-prog/leetcode_problems/tree/master/0575-distribute-candies) |
 | [1189-maximum-number-of-balloons](https://github.com/jaffin-prog/leetcode_problems/tree/master/1189-maximum-number-of-balloons) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/jaffin-prog/leetcode_problems/tree/master/0125-valid-palindrome) |
+| [0290-word-pattern](https://github.com/jaffin-prog/leetcode_problems/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/jaffin-prog/leetcode_problems/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/jaffin-prog/leetcode_problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0709-to-lower-case](https://github.com/jaffin-prog/leetcode_problems/tree/master/0709-to-lower-case) |
