@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/jaffin-prog/leetcode_problems/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/jaffin-prog/leetcode_problems/tree/master/0231-power-of-two) |
 ## Divide and Conquer
 |  |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/jaffin-prog/leetcode_problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/jaffin-prog/leetcode_problems/tree/master/0141-linked-list-cycle) |
+| [0203-remove-linked-list-elements](https://github.com/jaffin-prog/leetcode_problems/tree/master/0203-remove-linked-list-elements) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
